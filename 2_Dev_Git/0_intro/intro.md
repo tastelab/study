@@ -146,3 +146,10 @@ PPT도 만들 수 있고..
 - 2주차 : init, add, rm, commit, push
 - 3주차 : clone, pull
 - 4주차 : merge
+
+--
+
+## 저장소
+
+- [github.com/tastelab-kr/study](https://github.com/tastelab-kr/study) 
+
